@@ -5,9 +5,9 @@
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
 	</h1>
 	<h3 align="center">
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/save-floppy.gif" width="32px">
+		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
 		A frontend developer in the making
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/save-floppy.gif" width="32px">
+		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
 	</h3>
 	<sup>My human form is known as Seán :)</sup>
 </div>
