@@ -1,5 +1,3 @@
-
-
 <div align="center"> 
 	<h1>
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
@@ -17,8 +15,6 @@
 </div>
 
 <br>
-
-
 
 <div align="center">
 	<sup>Visitor count</sup>
@@ -40,11 +36,9 @@
 	</a>
 </div>
 
-<hr>
-
 <details>
     <summary>
-        <h4>Skills/Tools</h4>
+        <b>Skills/Tools</b>
     </summary>
     <br>
     <h5>Languages / Frameworks</h5>
@@ -89,8 +83,8 @@
         <h5>Editors / IDEs</h5>
     <table>
         <tr>
-            <td align="center">VSCode<br>
-                <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" width="40" height="40"/>
+            <td align="center">VSCodium<br>
+                <img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" width="40" height="40"/>
             </td>
             <td align="center">IntelliJ<br>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" width="40" height="40"/>
@@ -107,25 +101,60 @@
     <table>
         <tr>
             <td align="center">
-              Adobe Illustrator
-            <br>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> 
-            </td>
+                Adobe Illustrator<br>
+                <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/11_Illustrator_Adobe_Ai_logo_logos-512.png" alt="illustrator" width="40" height="40"/> </td>
             <td align="center">
-              Adobe Photoshop
-            <br>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+              Adobe Photoshop<br>
+              <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" alt="photoshop" width="40" height="40"/>
            </td>
            <td align="center">
-              Adobe Premiere Pro
-            <br>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="photoshop" width="40" height="40"/>
+              Adobe Premiere Pro<br>
+              <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-512.png" alt="photoshop" width="40" height="40"/>
            </td>
             <td align="center">
-            Figma
-            <br>
+            Figma<br>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
           </td>
         </tr>
     </table>
 </details>
+
+<hr>
+
+<details>
+    <summary>
+        <b>Connect with me</b>
+    </summary>
+    <br>
+    <table>
+        <tr>
+            <td align="center">
+              LinkedIn<br>
+              <a href="https://www.linkedin.com/in/sean-og-durack-monks/" target="blank">
+              <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" width="40" height="40"/>
+              </a>
+            </td>
+            <td align="center">
+              Codepen
+              <br>
+              <a href="https://codepen.io/mangoshi" target="blank">
+              <img src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/Codepen-512.png" alt="codepen" width="40" height="40"/>
+              </a>
+            </td>
+            <td align="center">
+		DEV
+              <br>
+              <a href="https://dev.to/mangoshi" target="blank">
+              <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="dev" width="40" height="40"/>
+              </a>
+            </td>
+            <td align="center">
+              StackOverflow
+              <br>
+              <a href="https://stackoverflow.com/users/mangoshi" target="blank">
+              <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/StackOverflow-512.png" alt="stackoverflow" width="40" height="40"/>
+              </a>
+            </td>
+        </tr>
+    </table>
+    
