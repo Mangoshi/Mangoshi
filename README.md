@@ -21,16 +21,14 @@
 <br>
 
 <div align="center">
-	<sup>Visitor count 👀</sup>
-	<br>
+	<h3>Visitor count 👀</h3>
 	<img src="https://profile-counter.glitch.me/mangoshi/count.svg">
 </div>
 
 <br>
 
 <div align="center">
-	<sup>Stats 📃</sup>
-	<br>
+	<h3>Stats 📃</h3>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mangoshi&theme=dark" alt="mangoshi"/>
 	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
