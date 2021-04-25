@@ -36,6 +36,8 @@
 	</a>
 </div>
 
+<hr>
+
 <details>
     <summary>
         <b>Skills/Tools</b>
@@ -118,8 +120,6 @@
         </tr>
     </table>
 </details>
-
-<hr>
 
 <details>
     <summary>
