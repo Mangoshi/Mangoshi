@@ -1,10 +1,10 @@
 
 <div align="center"> 
-<h3>
+<h1>
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
 Hey there! I'm Mango!
 <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
-</h3>
+</h1>
 <sup>My human form is known as Seán.</sup>
 </div>
 
