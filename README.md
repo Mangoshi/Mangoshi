@@ -31,7 +31,8 @@
 <div align="center">
 	<sup>Stats 📃</sup>
 	<br>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangoshi&theme=dark" alt="mangoshi"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mangoshi&theme=dark" alt="mangoshi"/>
+	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=mangoshi&show_icons=true&theme=dark&border_radius=1rem">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mangoshi&theme=dark&border_radius=1rem">
