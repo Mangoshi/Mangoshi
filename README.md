@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center"> 
+Hey there! 👋
+</h1>
 
-<!--
-**Mangoshi/Mangoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="img/hexmango.png">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sup>Visitor count</sup>
+<br>
+<img src="https://profile-counter.glitch.me/mangoshi/count.svg"/>
+</div>
+
+<br>
+
+<div align="center">
+<sup>Stats</sup><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mangoshi&show_icons=true&theme=merko&border_radius=1rem">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mangoshi&theme=merko&border_radius=1rem">
+ <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoshi&theme=merko&border_radius=1rem&layout=compact"/>
+</a>
+</div>
