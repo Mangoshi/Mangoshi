@@ -1,3 +1,4 @@
+
 <div align="center"> 
 	<h1>
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
@@ -6,7 +7,7 @@
 	</h1>
 	<h3 align="center">
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
-		&nbsp A frontend developer in the making. &nbsp
+		&nbsp A web developer in the making :) &nbsp
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
 	</h3>
 	<sup>My human form is known as Seán 🧔</sup>
@@ -34,7 +35,7 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api?username=mangoshi&show_icons=true&theme=dark&border_radius=1rem">
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mangoshi&theme=dark&border_radius=1rem">
-		<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoshi&theme=dark&border_radius=1rem&layout=compact"/>
+		<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoshi&theme=dark&border_radius=1rem&layout=compact&exclude_repo=FunkyShapeGenerator&langs_count=8"/>
 	</a>
 </div>
 
@@ -130,7 +131,7 @@
 			<td align="center">
 			Ableton Live
 			<br>
-			<img src="https://lh3.googleusercontent.com/proxy/0YIz_Js0S9kCnXdwJw2B25RWEu1q5ec9hYiZPMPkg9o8lsGjtQV48hpf-n-HJAjefTTRJCfAB2CHxP6hJELWuWulJZXEIS7vJSNTxzA_3KXhO_CILRM7dzPJUQydEkOSHdgpaKPKY8WkhXGiik49o27lNK98c8WsQv05QL9eusb3DbodLtBSNMZumCT31TSnaSor2CYrMV9NSdod3lKjut8SJA" alt="ableton" width="40" height="40"/> 
+			<img src="https://icon-library.com/images/ableton-live-9-icon/ableton-live-9-icon-12.jpg" alt="ableton" width="40" height="40"/> 
 			</td>
 			<td align="center">
 			Bitwig Studio
