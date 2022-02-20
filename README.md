@@ -183,7 +183,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -268,5 +268,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Mangoshi/Mangoshi/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2022 12:40:54 UTC
+ Last Updated on 20/02/2022 12:56:42 UTC
 <!--END_SECTION:waka-->
