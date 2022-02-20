@@ -2,13 +2,13 @@ name: Waka Readme Worfklow
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 12:30 (https://crontab.guru for help)
+    - cron: '30 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    runs-on: kubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
