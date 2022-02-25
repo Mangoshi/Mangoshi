@@ -3,7 +3,7 @@ name: Waka Readme Worfklow
 on:
   schedule:
     # Runs at 12:30 (https://crontab.guru for help)
-    - cron: '30 12 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
