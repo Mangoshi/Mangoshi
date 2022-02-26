@@ -1,10 +1,10 @@
 
 <div align="center"> 
-	<h1>
+	<h2>
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
 		Hey there! I'm Mango!
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
-	</h1>
+	</h2>
 	<h3 align="center">
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
 		&nbsp A web developer in the making :) &nbsp
@@ -182,6 +182,8 @@
 	</table>
 </details>
 
+<hr>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-238-blue)
 
@@ -265,3 +267,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 
  Last Updated on 26/02/2022 12:35:59 UTC
 <!--END_SECTION:waka-->
+These statistics were generated from the data on my WakaTime account, using anmol098's waka-readme-stats.
+You can find the repo here: https://github.com/anmol098/waka-readme-stats
