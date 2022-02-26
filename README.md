@@ -268,4 +268,5 @@ Shell                    2 repos             ██░░░░░░░░░�
  Last Updated on 26/02/2022 12:35:59 UTC
 <!--END_SECTION:waka-->
 These statistics were generated from the data on my WakaTime account, using anmol098's waka-readme-stats.
+<br>
 You can find the repo here: https://github.com/anmol098/waka-readme-stats
