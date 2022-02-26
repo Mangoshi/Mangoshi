@@ -1,15 +1,14 @@
 
 <div align="center"> 
-	<h2>
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
-		Hey there! I'm Mango!
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
-	</h2>
-	<h3 align="center">
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
-		&nbsp A web developer in the making :) &nbsp
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
+	<h3>
+		Hey there! 
 	</h3>
+	<h3 align="center">
+		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="32px">
+	</h3>
+	<h4 align="center">
+		I'm Mango, a web developer in the making 🤓
+	</h4>
 	<sup>My human form is known as Seán 🧔</sup>
 </div>
 
