@@ -2,8 +2,8 @@ name: Waka Readme Worfklow
 
 on:
   schedule:
-    # Runs at 12:30 (https://crontab.guru for help)
-    - cron: '0 12 * * *'
+    # Runs at 4:20 (https://crontab.guru for help)
+    - cron: '20 4 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
