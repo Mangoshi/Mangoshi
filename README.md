@@ -184,7 +184,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-253%20Thousand%20lines%20of%20code-blue)
 
@@ -229,16 +229,20 @@ Sunday       56 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 min               ██████████░░░░░░░░░░░░░░░   42.99% 
+Vue.js                   1 min               █████████░░░░░░░░░░░░░░░░   38.28% 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Audiohaven-Sandbox       3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -255,7 +259,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2022 04:42:25 UTC
+ Last Updated on 16/04/2022 04:46:11 UTC
 <!--END_SECTION:waka-->
 
 <br>
