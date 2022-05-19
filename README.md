@@ -231,16 +231,16 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Powerpoint               17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -257,7 +257,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2022 04:55:46 UTC
+ Last Updated on 19/05/2022 04:56:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
