@@ -231,16 +231,16 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VueCountries (CA1)       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -257,7 +257,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2022 05:06:21 UTC
+ Last Updated on 03/06/2022 04:45:11 UTC
 <!--END_SECTION:waka-->
 
 <br>
