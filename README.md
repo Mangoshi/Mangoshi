@@ -231,16 +231,17 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      28 mins             ███████████████████░░░░░░   75.7% 
+HTML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CSS Border Tricks        37 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -257,7 +258,7 @@ PowerShell               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2022 05:08:12 UTC
+ Last Updated on 26/07/2022 05:25:02 UTC
 <!--END_SECTION:waka-->
 
 <br>
