@@ -184,7 +184,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -231,18 +231,16 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-CSS                      12 mins             █████████████░░░░░░░░░░░░   55.27% 
-Other                    9 mins              ██████████░░░░░░░░░░░░░░░   42.13% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sustainifi               17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -259,7 +257,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2022 05:06:55 UTC
+ Last Updated on 20/08/2022 04:54:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
