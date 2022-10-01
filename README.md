@@ -231,16 +231,17 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MrPS-Python-Tutorials    10 mins             ██████████████████████░░░   90.29% 
+sentdex-DataAnalysisPanda1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -257,7 +258,7 @@ JavaScript               3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 30/09/2022 05:50:53 UTC
+ Last Updated on 01/10/2022 05:42:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
