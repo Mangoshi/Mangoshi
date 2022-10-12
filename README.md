@@ -7,9 +7,9 @@
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="32px">
 	</h3>
 	<h4 align="center">
-		I'm Mango, a web developer in the making 🤓
+		I'm Seán Óg [AKA Mango] — a web developer in the making 🤓
 	</h4>
-	<sup>My human form is known as Seán 🧔</sup>
+	<sup>I'm also a freelance DJ, music producer, and hobbyist digital artist 🎵🎨</sup>
 </div>
 
 <br>
