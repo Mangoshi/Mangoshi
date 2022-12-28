@@ -231,16 +231,16 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 9 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Word                     2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -257,7 +257,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2022 04:38:56 UTC
+ Last Updated on 28/12/2022 04:38:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
