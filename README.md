@@ -1,18 +1,16 @@
 
 <div align="center"> 
 	<h1>
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
-		Hey there! I'm Mango!
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/party-parrot/slow-parrot.gif" width="42px">
+		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="22px">
+     Hey there!
+		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="22px">
 	</h1>
-	<h3 align="center">
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
-		&nbsp A web developer in the making :) &nbsp
-		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
-	</h3>
-	<sup>My human form is known as Seán 🧔</sup>
+	<p align="center">
+		I'm Seán Óg [AKA Mango] — a web developer in the making 🤓
+	</p>
+	<sup>I'm also a freelance DJ, music producer, and hobbyist digital artist 🎵🎨</sup>
   <br>
-	<sup>I'm currently looking for work! 👀</sup>
+	<sub>I'm currently looking for work! 👀</sub>
 </div>
 
 <br>
@@ -220,3 +218,91 @@
 		</tr>
 	</table>
 </details>
+
+<hr>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data**
+
+> 📦 428.0 kB Used in GitHub's Storage
+>
+> 🏆 584 Contributions in the Year 2023
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 19 Public Repositories
+>
+> 🔑 16 Private Repositories
+>
+**I'm a Night 🦉**
+
+```text
+🌞 Morning                64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+🌆 Daytime                768 commits         ███████████░░░░░░░░░░░░░░   45.12 % 
+🌃 Evening                745 commits         ███████████░░░░░░░░░░░░░░   43.77 % 
+🌙 Night                  125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+```
+📅 **I'm Most Productive on Friday**
+
+```text
+Monday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Tuesday                  241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Thursday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Friday                   336 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Saturday                 167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Sunday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Europe/Dublin
+
+💬 Programming Languages: 
+Vue.js                   2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.16 % 
+JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+
+🔥 Editors: 
+WebStorm                 5 hrs 35 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+portfolio                1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+audiohaven               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.19 % 
+Audiohaven-API           1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+FruitySteam              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+
+💻 Operating System: 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+
+Last Updated on 13/10/2023 04:30:00 UTC
+<!--END_SECTION:waka-->
+
+<br>
+
+These statistics were generated from the data on my WakaTime account, using anmol098's [waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
