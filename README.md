@@ -11,25 +11,29 @@
 		<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/mario-star.gif" width="24px">
 	</h3>
 	<sup>My human form is known as Seán 🧔</sup>
+  <br>
+	<sup>I'm currently looking for work! 👀</sup>
 </div>
 
 <br>
 
 <div align="center">
-	<img src="img/hexmango.png">
+	<img src="img/hexmango_op.svg" height="250">
 </div>
 
 <br>
 
 <div align="center">
-	<h3>Visitor count 👀</h3>
+	<h3>Visitor Count 👋</h3>
 	<img src="https://profile-counter.glitch.me/mangoshi/count.svg">
 </div>
 
 <br>
 
+<details>
+<summary>📃 My GitHub Stats 📃</summary>
+<br>
 <div align="center">
-	<h3>Stats 📃</h3>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mangoshi&theme=dark" alt="mangoshi"/>
 	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,13 +42,12 @@
 		<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoshi&theme=dark&border_radius=1rem&layout=compact&exclude_repo=FunkyShapeGenerator&langs_count=8"/>
 	</a>
 </div>
+</details>
 
-<hr>
+<br>
 
 <details>
-	<summary>
-		<b>🛠 Skills/Tools 🛠</b>
-	</summary>
+	<summary>🔧 My Skills & Tools 🔨</summary>
 	<br>
 	<h5>Languages / Frameworks</h5>
 	<table style="user-select:none;">
@@ -62,6 +65,19 @@
 			JavaScript
 			<br>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+			</td>
+			<td align="center">
+			React
+			<br>
+			<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="javascript" width="40" height="40"/>
+			</td>
+			<td align="center">
+			Vue
+			<br>
+			<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" alt="javascript" width="40" height="40"/>
+			</td>
+		</tr>
+		<tr>
 			<td align="center">
 			P5.js
 			<br>
@@ -92,8 +108,8 @@
 	<h5>Editors / IDEs</h5>
 	<table>
 		<tr>
-			<td align="center">VSCodium<br>
-			<img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/src/resources/linux/code.png" width="40" height="40"/>
+			<td align="center">VS Code<br>
+			<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40"/>
 			</td>
 			<td align="center">IntelliJ<br>
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
@@ -104,11 +120,19 @@
 			<td align="center">PhpStorm<br>
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png" width="40" height="40"/>
 			</td>
+			<td align="center">GitKraken<br>
+			<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/gitkraken_94666.png" width="40" height="40"/>
+			</td>
 		</tr>
 	</table>
 	<h5>Non-programming Tools</h5>
 	<table>
 		<tr>
+			<td align="center">
+			Figma
+			<br>
+			<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="photoshop" width="40" height="40"/>
+			</td>
 			<td align="center">
 			Photoshop
 			<br>
@@ -128,6 +152,8 @@
 			<br>
 			<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/18_Audition_Adobe_logo_logos-512.png" alt="audition" width="40" height="40"/> 
 			</td>
+		</tr>
+		<tr>
 			<td align="center">
 			Ableton Live
 			<br>
@@ -138,6 +164,21 @@
 			<br>
 			<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/bitwig-studio-icon.png" alt="bitwig" width="40" height="40"/> 
 			</td>
+			<td align="center">
+			Blender
+			<br>
+			<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png" alt="bitwig" width="40" height="40"/> 
+			</td>
+			<td align="center">
+			TouchDesigner
+			<br>
+			<img src="https://patchstorage.com/wp-content/uploads/2021/02/TouchDesigner_logo.png" alt="bitwig" width="" height="40"/> 
+			</td>
+			<td align="center">
+			Aseprite
+			<br>
+			<img src="https://share.natebeaty.com/aseprite/aseprite.png" alt="bitwig" width="40" height="40"/> 
+			</td>
 		</tr>
 	</table>
 </details>
@@ -145,9 +186,7 @@
 <br>
 
 <details>
-	<summary>
-		<b>🔗 Connect with me 🔗</b>
-	</summary>
+	<summary>🔗 My Social Links 🔗</summary>
 	<br>
 	<table>
 		<tr>
