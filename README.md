@@ -222,7 +222,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2032%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -265,16 +267,16 @@ Sunday                   191 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Other                    1 hr 24 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Word                     12 mins             █████████████████████████   100.00 % 
+Word                     1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -290,7 +292,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 04:31:26 UTC
+ Last Updated on 08/12/2023 04:30:54 UTC
 <!--END_SECTION:waka-->
 
 <br>
