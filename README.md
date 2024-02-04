@@ -267,16 +267,17 @@ Sunday                   191 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              ████████████████████████░   96.51 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+y4-project-Mangoshi      4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -292,7 +293,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2024 04:27:25 UTC
+ Last Updated on 04/02/2024 04:27:52 UTC
 <!--END_SECTION:waka-->
 
 <br>
