@@ -222,9 +222,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2039%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
 
@@ -240,45 +238,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-🌆 Daytime                746 commits         ███████████░░░░░░░░░░░░░░   43.93 % 
-🌃 Evening                764 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
-🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Wednesday                231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Thursday                 305 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Friday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Dublin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -292,7 +251,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 07:54:23 UTC
+ Last Updated on 28/07/2026 06:42:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
